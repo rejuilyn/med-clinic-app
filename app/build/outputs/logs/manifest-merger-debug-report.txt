@@ -1,0 +1,160 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\yatre\AndroidStudioProjects\MedicalApp\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\yatre\AndroidStudioProjects\MedicalApp\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\yatre\AndroidStudioProjects\MedicalApp\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\yatre\AndroidStudioProjects\MedicalApp\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\57dc013f01693e00a00ea42d93c37143\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\310148320b87748d268b66dd39ba0bc6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\d8ee4bb423483ccce3467acf902e0f9f\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\823426d7283a3f71404bd990e103c573\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\525c1d3607c41ef54061514ade2758aa\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\91e6c3c5049e8f042a47a072cc3e236f\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\fb02a9747ec26d462dea7002d40d2904\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\9d89e831a1ab9fb6f3145cd2090abe25\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\e7c6facb4e7f9cc3a5a56ed538c83ed8\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\1040fc0b6111f8e3d8287f61a0387932\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\d5f5bf4eb8be316c6409f1c8440ba3b7\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\8a4b5a506a40aa38cc68bb73a3eb1420\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\54c503f3a7425d68c06fa1b35063ec08\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\279a9c924f0806ed4d9b2d3c61926624\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\65820bd215bd4a1bcd4d1e3caf37a29e\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\b5c98cb81ac3a6fedf8db2c07911010d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\65f48b965ea4e9e9f0bf69ccb1ec7bc5\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\4c16aedf0a48ec2bcf587be4bcb5cd39\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\f1eac2157fafaa3434bb6df76e272c9a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\19e7c45d7608f794511f8a0ada02a0d7\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\788b978b0093e47508595c7861876dac\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\7c99afb682abef2984c2387239860168\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\8480c4d2a428c27ea03e88ff72d2b099\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\9613b6d272d9e36a3954b0bf73d42ac1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\2096953757501e4ff915fc0c64ccdcb9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\c9544e3880fbe951145f66e25c2d7be7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\3002db82615a0c4229f5787344d9bdc5\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\yatre\AndroidStudioProjects\MedicalApp\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\yatre\AndroidStudioProjects\MedicalApp\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\yatre\AndroidStudioProjects\MedicalApp\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from C:\Users\yatre\AndroidStudioProjects\MedicalApp\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from C:\Users\yatre\AndroidStudioProjects\MedicalApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\yatre\AndroidStudioProjects\MedicalApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\yatre\AndroidStudioProjects\MedicalApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\yatre\AndroidStudioProjects\MedicalApp\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\yatre\AndroidStudioProjects\MedicalApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\yatre\AndroidStudioProjects\MedicalApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\yatre\AndroidStudioProjects\MedicalApp\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\yatre\AndroidStudioProjects\MedicalApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\yatre\AndroidStudioProjects\MedicalApp\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\yatre\AndroidStudioProjects\MedicalApp\app\src\main\AndroidManifest.xml:5:5-22:19
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\57dc013f01693e00a00ea42d93c37143\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\57dc013f01693e00a00ea42d93c37143\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\d8ee4bb423483ccce3467acf902e0f9f\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\d8ee4bb423483ccce3467acf902e0f9f\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\65f48b965ea4e9e9f0bf69ccb1ec7bc5\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\65f48b965ea4e9e9f0bf69ccb1ec7bc5\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\19e7c45d7608f794511f8a0ada02a0d7\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\19e7c45d7608f794511f8a0ada02a0d7\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\65f48b965ea4e9e9f0bf69ccb1ec7bc5\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\yatre\AndroidStudioProjects\MedicalApp\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\yatre\AndroidStudioProjects\MedicalApp\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\yatre\AndroidStudioProjects\MedicalApp\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\yatre\AndroidStudioProjects\MedicalApp\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\yatre\AndroidStudioProjects\MedicalApp\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\yatre\AndroidStudioProjects\MedicalApp\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.medicalapp.MainActivity
+ADDED from C:\Users\yatre\AndroidStudioProjects\MedicalApp\app\src\main\AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from C:\Users\yatre\AndroidStudioProjects\MedicalApp\app\src\main\AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from C:\Users\yatre\AndroidStudioProjects\MedicalApp\app\src\main\AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from C:\Users\yatre\AndroidStudioProjects\MedicalApp\app\src\main\AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\yatre\AndroidStudioProjects\MedicalApp\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\yatre\AndroidStudioProjects\MedicalApp\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\yatre\AndroidStudioProjects\MedicalApp\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\yatre\AndroidStudioProjects\MedicalApp\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\yatre\AndroidStudioProjects\MedicalApp\app\src\main\AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from C:\Users\yatre\AndroidStudioProjects\MedicalApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\yatre\AndroidStudioProjects\MedicalApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\yatre\AndroidStudioProjects\MedicalApp\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\57dc013f01693e00a00ea42d93c37143\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\57dc013f01693e00a00ea42d93c37143\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\310148320b87748d268b66dd39ba0bc6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\310148320b87748d268b66dd39ba0bc6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\d8ee4bb423483ccce3467acf902e0f9f\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\d8ee4bb423483ccce3467acf902e0f9f\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\823426d7283a3f71404bd990e103c573\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\823426d7283a3f71404bd990e103c573\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\525c1d3607c41ef54061514ade2758aa\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\525c1d3607c41ef54061514ade2758aa\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\91e6c3c5049e8f042a47a072cc3e236f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\91e6c3c5049e8f042a47a072cc3e236f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\fb02a9747ec26d462dea7002d40d2904\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\fb02a9747ec26d462dea7002d40d2904\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\9d89e831a1ab9fb6f3145cd2090abe25\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\9d89e831a1ab9fb6f3145cd2090abe25\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\e7c6facb4e7f9cc3a5a56ed538c83ed8\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\e7c6facb4e7f9cc3a5a56ed538c83ed8\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\1040fc0b6111f8e3d8287f61a0387932\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\1040fc0b6111f8e3d8287f61a0387932\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\d5f5bf4eb8be316c6409f1c8440ba3b7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\d5f5bf4eb8be316c6409f1c8440ba3b7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\8a4b5a506a40aa38cc68bb73a3eb1420\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\8a4b5a506a40aa38cc68bb73a3eb1420\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\54c503f3a7425d68c06fa1b35063ec08\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\54c503f3a7425d68c06fa1b35063ec08\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\279a9c924f0806ed4d9b2d3c61926624\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\279a9c924f0806ed4d9b2d3c61926624\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\65820bd215bd4a1bcd4d1e3caf37a29e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\65820bd215bd4a1bcd4d1e3caf37a29e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\b5c98cb81ac3a6fedf8db2c07911010d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\b5c98cb81ac3a6fedf8db2c07911010d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\65f48b965ea4e9e9f0bf69ccb1ec7bc5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\65f48b965ea4e9e9f0bf69ccb1ec7bc5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\4c16aedf0a48ec2bcf587be4bcb5cd39\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\4c16aedf0a48ec2bcf587be4bcb5cd39\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\f1eac2157fafaa3434bb6df76e272c9a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\f1eac2157fafaa3434bb6df76e272c9a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\19e7c45d7608f794511f8a0ada02a0d7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\19e7c45d7608f794511f8a0ada02a0d7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\788b978b0093e47508595c7861876dac\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\788b978b0093e47508595c7861876dac\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\7c99afb682abef2984c2387239860168\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\7c99afb682abef2984c2387239860168\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\8480c4d2a428c27ea03e88ff72d2b099\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\8480c4d2a428c27ea03e88ff72d2b099\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\9613b6d272d9e36a3954b0bf73d42ac1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\9613b6d272d9e36a3954b0bf73d42ac1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\2096953757501e4ff915fc0c64ccdcb9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\2096953757501e4ff915fc0c64ccdcb9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\c9544e3880fbe951145f66e25c2d7be7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\c9544e3880fbe951145f66e25c2d7be7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\3002db82615a0c4229f5787344d9bdc5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\yatre\.gradle\caches\transforms-2\files-2.1\3002db82615a0c4229f5787344d9bdc5\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\yatre\AndroidStudioProjects\MedicalApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\yatre\AndroidStudioProjects\MedicalApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\yatre\AndroidStudioProjects\MedicalApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\yatre\AndroidStudioProjects\MedicalApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\yatre\AndroidStudioProjects\MedicalApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\yatre\AndroidStudioProjects\MedicalApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\yatre\AndroidStudioProjects\MedicalApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\yatre\AndroidStudioProjects\MedicalApp\app\src\main\AndroidManifest.xml
